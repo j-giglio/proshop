@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/j-giglio/proshop#readme",
   "dependencies": {
+    "axios": "^0.24.0",
     "express": "^4.17.1"
   }
 }
